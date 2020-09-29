@@ -1,0 +1,52 @@
+.rightCharts {
+  width: 40vw;
+  height: 40vw;
+  float: left;
+}
+
+.eduPie {
+  width: 20vw;
+  height: 20vw;
+  float: left;
+}
+.eduPie .eduTitle {
+  width: 20vw;
+  height: 1vw;
+  float: left;
+  color: white;
+}
+.eduPie .eduCharts {
+  width: 20vw;
+  height: 18vw;
+  float: left;
+}
+.eduPie .eduExchange {
+  width: 20vw;
+  height: 1vw;
+  float: left;
+  color: white;
+}
+
+.workYearBar {
+  width: 40vw;
+  height: 20vw;
+}
+.workYearBar .workYearTitle {
+  width: 20vw;
+  height: 1vw;
+  float: left;
+  color: white;
+}
+.workYearBar .workYearCharts {
+  width: 100%;
+  height: 18vw;
+  float: left;
+}
+.workYearBar .workYearExchange {
+  width: 20vw;
+  height: 1vw;
+  float: left;
+  color: white;
+}
+
+/*# sourceMappingURL=rightCharts.css.map */

@@ -1,0 +1,12 @@
+.midCharts {
+  width: 50vw;
+  height: 80vh;
+  float: left;
+  margin-left: 5vw;
+}
+.midCharts .mainMap {
+  width: 100%;
+  height: 100%;
+}
+
+/*# sourceMappingURL=midCharts.css.map */

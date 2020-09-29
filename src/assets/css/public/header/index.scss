@@ -1,0 +1,17 @@
+#header {
+    width: 100vw;
+    height: 8vh;
+    position: fixed;
+    top: 0;
+    background-color: rgb(25,25,25);
+
+    .headerTitle {
+        width: 20vw;
+        height: 8vh;
+        font-weight: bolder;
+        color: rgba(0,253,202,1);
+        font-size: 1.2em;
+        line-height: 8vh;
+        margin-left: 5.5vw;
+    }
+}
